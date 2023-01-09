@@ -1,5 +1,5 @@
 
-![my_foto](https://github.com/.github.io/MoroSkoro/My-portfolio/images/Iam.png)
+![my_foto](https://github.com/MoroSkoro/My-portfolio/blob/main/Iam.png)
 
 **Капшук Евгений**
 
