@@ -1,5 +1,5 @@
 
-![my_foto](F:\Repositories\Portfolio\Iam.png)
+![my_foto](Iam.png)
 
 **Капшук Евгений**
 
